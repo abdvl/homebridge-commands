@@ -1,4 +1,4 @@
-# Hello
+# Command
 Install homebridge on PI3
 
 ## install latest node
