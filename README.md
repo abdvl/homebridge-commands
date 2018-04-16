@@ -28,8 +28,11 @@ rm -rf .homebridge/persist/
 
 ##  check the status of the service by calling
 Status : `systemctl status homebridge`
+
 Detail : `journalctl -u homebridge.service`
 
 Service : 
+
 `sudo systemctl stop homebridge`
+
 `sudo systemctl start homebridge`
